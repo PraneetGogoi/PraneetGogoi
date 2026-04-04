@@ -59,9 +59,9 @@ But to defeat yourself is the most difficult task.)
   
   <br/><br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PraneetGogoi&show_icons=true&theme=radical&locale=en" alt="PraneetGogoi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PraneetGogoi&show_icons=true&theme=radical&locale=en&layout=compact" alt="PraneetGogoi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PraneetGogoi&theme=radical" alt="PraneetGogoi" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneetGogoi&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PraneetGogoi&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraneetGogoi&theme=dark&utcOffset=8) 
 
 
 ### 🔝 Top Contributed Repo
