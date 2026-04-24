@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Beastsoul123.Beastsoul123" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+<img width="1280" height="657" alt="8" src="https://github.com/user-attachments/assets/3b7265af-e53d-4224-8ebf-7fe24d1fe515" />
+
 <br><br>
 
 <h1 align="center">
