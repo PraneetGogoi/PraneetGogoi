@@ -60,9 +60,8 @@ But to defeat yourself is the most difficult task.)
   
   <br/><br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneetGogoi&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PraneetGogoi&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraneetGogoi&theme=dark&utcOffset=8) 
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PraneetGogoi?cardType=octocat&theme=ocean-dark&fontFamily=Akronim&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ### 🔝 Top Contributed Repo
